@@ -4,3 +4,4 @@
 
 ### No arquivo "Scriptpostgresql.sql" está os scripts das tabelas e dos dados no PostgreSQL.
 
+### No arquivo "Scriptmariadb.sql" está os scripts das tabelas e dos dados no MariaDb.
