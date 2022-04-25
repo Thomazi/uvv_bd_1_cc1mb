@@ -2,6 +2,6 @@
 
 ### No arquivo "SqlPowerArchitect.architect" está o projeto Elmasri no SQL Power Architect.
 
-### No arquivo "Scriptpostgresql.sql" está os scripts das tabelas e dos dados no PostgreSQL.
+### No arquivo "Scriptpostgresql.sql" está os scripts das tabelas Elmasri e dos dados no PostgreSQL.
 
-### No arquivo "Scriptmariadb.sql" está os scripts das tabelas e dos dados no MariaDb.
+### No arquivo "Scriptmariadb.sql" está os scripts das tabelas Elmasri e dos dados no MariaDb.
