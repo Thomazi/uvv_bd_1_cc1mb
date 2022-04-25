@@ -1,4 +1,4 @@
-# meu subdiretório para o meu pset
+# Meu subdiretório para o pset1
 
-### vou colocar os scripts dos bancos de dados aqui
+### v
 
