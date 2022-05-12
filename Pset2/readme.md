@@ -4,4 +4,4 @@
 _________________________________________
 # Informações
 
-### Neste pset vou colocar os relatorios escritos no formato SQL e pelo MariaDb
+### Neste pset vou colocar os relatorios escritos no formato SQL e pelo MariaDb.
